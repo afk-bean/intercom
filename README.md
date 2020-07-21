@@ -6,7 +6,12 @@ To run this script(s), all you need is python 3.6+ and the following modules ins
 
 tqdm
 websockets
-#############################
+
+
+
+
+
+
 and javascript must also be enabled on your browser for the ui to work.
 
 This is not completed yet, but soon, we will prevail to the level of completion that we (I) desire.
